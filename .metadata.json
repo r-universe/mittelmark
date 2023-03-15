@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "snha",
+    "oncran": true
+  }
+]
